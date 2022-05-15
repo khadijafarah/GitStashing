@@ -2,7 +2,7 @@ package com.company;
 
 public class basicFeatures {
 
-    String enginecapac;
+    String engineCapac;
     String color;
     String doors;
     String headlights;
